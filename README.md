@@ -36,7 +36,7 @@ PDF Viewer is an Android application built using Jetpack Compose that allows use
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/pdfviewer.git
+    git clone https://github.com/EvgenyPlaksin/pdfviewer.git
     ```
 2. Open the project in Android Studio.
 3. Build and run the project on a device or emulator with a minimum API level of 24.
